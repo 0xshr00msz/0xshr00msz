@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm shr00msz</h1>
-<h3 align="center">A passionate Computer Science Student from the University of the Philippines - Mindanao</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xshr00msz&label=Profile%20views&color=0e75b6&style=flat" alt="0xshr00msz" /> </p>
 
+- 👀 I’m interested in Backend Web Development and Cybersecurity**
+
 - 🌱 I’m currently learning **JavaScript, Networking, and Backend Development**
 
-- 📫 How to reach me **0xshr00msz@protonmail.com**
+- 📫 How to reach me: Try your best to reach me! haha!
 
-- ⚡ Fun fact **I am a freelance Photographer and I love Programming**
+- ⚡ I am looking to collaborate with people interested in backend development. ps i am a newbie.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> . . . </p>
