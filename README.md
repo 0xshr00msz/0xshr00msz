@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Networking, and Backend Development**
 
-- 📫 How to reach me: Try your best to reach me! haha!
+- 📫 How to reach me: Try your best to find me! haha!
 
 - ⚡ I am looking to collaborate with people interested in backend development. ps i am a newbie.
 
