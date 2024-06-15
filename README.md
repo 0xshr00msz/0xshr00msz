@@ -16,9 +16,6 @@ Hello, I am shr00msz, just a tech n00b who loves coffee. I am into Backend Web D
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 
 
