@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=0xshr00msz&icon=0&color=4)](https://visitcount.itsvg.in)
 # 💫 About Me:
-Hello, I am shr00msz, just a tech n00b who loves coffee. I am into Backend Web Development and Cybersecurity. I am currently learning tech in Cybersecurity and Python - Django in Backend.
+n0thing
 
 
 ## 🌐 Socials:
