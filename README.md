@@ -5,9 +5,9 @@
 
 int whoami(void)
 {
-    char languages[] = "C, JavaScript, Python";
+    char languages[] = "C, C#, JavaScript, Python";
     char interest[] = "Red Teaming, Malware Development/Analysis, Bug Hunting, AWS";
-    char certifications[] = "coming soon";
+    char certifications[] = "AWS Certified Cloud Practitioner, . . . ";
 
     return 1337;
 }
