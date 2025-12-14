@@ -5,9 +5,10 @@
 
 int whoami(void)
 {
-    char languages[] = "C, C#, JavaScript, Python";
-    char interest[] = "Red Teaming, Malware Development/Analysis, Bug Hunting, AWS";
-    char certifications[] = "AWS Certified Cloud Practitioner, . . . ";
+    char *languages = "C, C#, PHP, JavaScript, Python";
+    char *interest = "Red Teaming, Web Penetration Testing, Bug Hunting, AWS, Azure";
+    char *frameworks = "React, Django, .NET Core";
+    char *certifications = "AWS Certified Cloud Practitioner, . . . ";
 
     return 1337;
 }
