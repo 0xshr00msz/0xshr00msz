@@ -1,12 +1,12 @@
 ```c
-#include <0xshr00msz.h>
-#include <h4td0g.h>
+#include <0xAmanita.h>
+#include <h4td4wgz.h>
 #include <tenderJuicy.h>
 
 int whoami(void)
 {
     char *languages = "C, C#, PHP, JavaScript, Python";
-    char *interest = "Red Teaming, Web Penetration Testing, Bug Hunting, AWS, Azure";
+    char *interest = "Red Teaming, Web Penetration Testing, Bug Bounty Hunting, AWS, Azure";
     char *frameworks = "React, Django, .NET Core";
     char *certifications = "AWS Certified Cloud Practitioner, . . . ";
 
